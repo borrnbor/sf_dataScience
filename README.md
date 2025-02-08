@@ -8,3 +8,4 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 - [Проект 1. Анализ резюме из HeadHunter](https://github.com/borrnbor/sf_project1)
 - [Проект 2. Анализ вакансий из HeadHunter](https://github.com/borrnbor/sf_project2)
 - [Проект 3. EDA + Feature Engineering. Соревнование на Kaggle (Booking)](https://github.com/borrnbor/sf_project3)
+- [Проект 4. Классификация клинетов банка](https://github.com/borrnbor/sf_project4)
